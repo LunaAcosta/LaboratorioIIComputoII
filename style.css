@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 30px;
+}
+
+h2 {
+  font-size: 60px;
+  font-weight: 900;
+}
+
+.table-decoracion {
+  margin-bottom: 1em;
+  text-align: center;
+  width: 100%;
+}
+
+th,
+td {
+  padding: 1em;
+  border: 1px solid #ddd;
+}
+
+.datos {
+  background: #010d12;
+  color: white;
+}
